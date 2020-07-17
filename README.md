@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Prateek</h1>
 <h3 align="center">A clever :bowtie: Self-taught developer from India.</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=shadow-recruit alt=shadow-recruit/> </p>
 
 - 💬 Ask me about **JavaScript**
 
@@ -29,3 +28,5 @@ Here are some ideas to get you started:
 <a href=https://linkedin.com/in/prateek-aher target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="prateek-aher" height="20" width="20" /></a>
 <a href=https://instagram.com/prateek_aher target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="prateek_aher" height="20" width="20" /></a>
 </p>
+
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=shadow-recruit alt=shadow-recruit/> </p>
