@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=shadow-recruit alt=shadow-recruit/> </p>
+[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=_Username_&type=horizontal)](https://medium.com/@prateek_aher)
