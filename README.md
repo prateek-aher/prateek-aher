@@ -11,11 +11,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <h1 align="center">Hi 👋, I'm Prateek</h1>
 <h3 align="center">A clever :bowtie: Self-taught developer from India.</h3>
-
+-->
+---
+<p align="center">
+  <img src="Card.png" width="100%" title="Banner" alt="Banner">
+</p>
+---
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **prateeksaher@gmail.com**
