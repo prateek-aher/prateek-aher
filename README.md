@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 -->
 ---
 <p align="center">
-  <img src="https://github.com/shadow-recruit/shadow-recruit/blob/master/Card.png?raw=true" width="100%" title="Banner" alt="Banner">
+  <img src="https://github.com/shadow-recruit/shadow-recruit/blob/master/Card.png?raw=true" width="100%" width="100%" title="Banner" alt="Banner">
 </p>
----
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **prateeksaher@gmail.com**
@@ -35,4 +34,3 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=shadow-recruit alt=shadow-recruit/> </p>
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=_Username_&type=horizontal)](https://medium.com/@prateek_aher)
