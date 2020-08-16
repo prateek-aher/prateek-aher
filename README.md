@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 ---
 <p align="center">
-  <img src="Card.png" width="100%" title="Banner" alt="Banner">
+  <img src="https://github.com/shadow-recruit/shadow-recruit/blob/master/Card.png?raw=true" width="100%" title="Banner" alt="Banner">
 </p>
 ---
 - 💬 Ask me about **JavaScript**
