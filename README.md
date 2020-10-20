@@ -3,7 +3,8 @@
   <img src="https://github.com/shadow-recruit/shadow-recruit/blob/master/Card.png?raw=true" width="100%" alt="Banner">
 </span>
 
-I have a great sense of web design. I always love those webapps having great animations and UI. I think they are very important for a successful app. I always deliberate myself to make apps better and better. 🙂
+<p align="center">* * *</p>
+I have a great sense of web design. I love those webapps having great animations and UI. I believe they are very important for a successful app. I always deliberate myself to make apps better and better. 🙂
 
 I write about my experiences and lessons learned in tech on my blog at 🔥[The Daily Prateek](https://thedailyprateek.hashnode.dev)
 
