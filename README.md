@@ -1,7 +1,6 @@
 <h1 align="center">Hi there<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! I'm Prateek.</h1>
-<h2 align="center">Welcome to my page<h2>
+<h2 align="center">Welcome to my page</h2>
 
-<p align="center">* * *</p>
 <p align="center">
   Currently a final year undergraduate pursuing my B.E. in Mechanical Engineering from AISSMS's, CoE, Pune.<br>My interests lie in <b>Android</b> and <b>Web developmnent</b> 🙂
 </p>
