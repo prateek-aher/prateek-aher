@@ -1,6 +1,8 @@
 <h1 align="center">Hi there<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">!</h1>
 
-<img align="center" src="https://github.com/shadow-recruit/shadow-recruit/blob/master/Card.png?raw=true" width="70%" alt="Banner">
+<div>
+  <img align="center" src="https://github.com/shadow-recruit/shadow-recruit/blob/master/Card.png?" width="100%" alt="Banner">
+</div>
 
 <p align="center">* * *</p>
 <p align="center">
