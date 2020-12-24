@@ -1,12 +1,16 @@
 <h1 align="center">Hi there<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">!</h1>
-<span align="center">
-  <img src="https://github.com/shadow-recruit/shadow-recruit/blob/master/Card.png?raw=true" width="100%" alt="Banner">
-</span>
+
+<img align="center" src="https://github.com/shadow-recruit/shadow-recruit/blob/master/Card.png?raw=true" width="70%" alt="Banner">
 
 <p align="center">* * *</p>
-<p align="center">Currently a final year undergraduate pursuing my B.E. in Mechanical Engineering from AISSMS's, CoE, Pune.<br>My interests lie in <b>Android</b> and <b>Web developmnent</b> 🙂</p>
+<p align="center">
+  Currently a final year undergraduate pursuing my B.E. in Mechanical Engineering from AISSMS's, CoE, Pune.<br>My interests lie in <b>Android</b> and <b>Web developmnent</b> 🙂
+</p>
 
-I write about my experiences and lessons learned in tech on my blog at 🔥[The Daily Prateek](https://thedailyprateek.hashnode.dev)
+
+<p align="center">
+  I write about my experiences and lessons learned in tech on my blog at 🔥[The Daily Prateek](https://thedailyprateek.hashnode.dev)
+</p>
 
 <h3>I'm currently dabbling around in:</h2>
 
