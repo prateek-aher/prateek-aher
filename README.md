@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  I write about my experiences and lessons learned in tech on my blog at 🔥[The Daily Prateek](https://thedailyprateek.hashnode.dev)
+  I write about my experiences and lessons learned in tech on my blog at 🔥<a href="https://thedailyprateek.hashnode.dev">The Daily Prateek</a>
 </p>
 
 <h3>Nowadays, I'm dabbling around in:</h2>
