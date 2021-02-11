@@ -2,12 +2,12 @@
 <h2 align="center">Welcome to my page</h2>
 
 <p align="center">
-  Currently a final year undergraduate pursuing my B.E. in Mechanical Engineering from AISSMS's, CoE, Pune.<br>My interests lie in <b>Android</b> and <b>Web developmnent</b> 🙂
+  Final year undergraduate of B.E.(Mechanical) at AISSMS's, CoE, Pune.<br>In the realm of <b>Android</b> and <b>Web developmnent</b> 🙂
 </p>
 
 
 <p align="center">
-  I write about my experiences and lessons learned in tech on my blog at 🔥<a href="https://thedailyprateek.hashnode.dev">The Daily Prateek</a>
+  I write at <a href="https://thedailyprateek.hashnode.dev">🔥The Daily Prateek</a>
 </p>
 
 <h3>Nowadays, I'm dabbling around in:</h2>
