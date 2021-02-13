@@ -14,8 +14,8 @@
 <img height="40" title="Flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"> <img height="40" title="Dart" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"> <img height="40" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="40" title="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> <img height="40" title="HTML" src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png"> <img height="40" title="CSS" src="https://ucarecdn.com/f49e8fc4-876f-49ef-934f-89812fc4125e/">
 
 
-<a href="https://github.com/shadow-recruit">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=shadow-recruit&show_icons=true&theme=tokyonight&line_height=27" alt="Github stats"/>
+<a href="https://github.com/prateek-aher">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=prateek-aher&show_icons=true&theme=tokyonight&line_height=27" alt="Github stats"/>
 </a>
 
 <hr>
