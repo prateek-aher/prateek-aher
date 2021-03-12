@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  I write at <a href="https://thedailyprateek.hashnode.dev">🔥The Daily Prateek</a>
+  I write at <a href="https://prateekaher.hashnode.dev">🔥The Daily Prateek</a>
 </p>
 
 <h3>Immersing myself in:</h2>
